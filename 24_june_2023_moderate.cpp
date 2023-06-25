@@ -6,7 +6,6 @@ int calc(int num, int base) {
     if (num == 0) {
         return 0;
     }
-
     return calc(num / base, base) * 10 + num % base;
 }
 
