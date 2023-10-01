@@ -7,6 +7,7 @@ bool compareSecondElement(vector<int> &a, vector<int> &b) {
 
 // this is just a comment that is just for fun
 // now i am commenting inside another comment to not look stupid
+// now i look even more stupid after messing up git commands
 
 class Solution
 {
