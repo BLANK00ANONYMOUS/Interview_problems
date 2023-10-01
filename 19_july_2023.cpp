@@ -5,6 +5,9 @@ bool compareSecondElement(vector<int> &a, vector<int> &b) {
     return a[1] < b[1];
 }
 
+// this is just a comment that is just for fun
+// now i am commenting inside another comment to not look stupid
+
 class Solution
 {
 public:
